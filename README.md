@@ -7,7 +7,7 @@ The decentralized expansion of renewable energies is an important pillar on the 
 
 In order to ensure stable energy supply, the energy suppliers rely on forecasts of these residual loads. In the past, those residual loads could be forecast based on many years of experience. Now, the share of solar energy systems and therefore the amount of energy self-generation increases more and more. This makes the task of forecasting the residual loads more and more complex as there are dependencies to external factors like the weather. However, the forecast is necessary to maintain a proper supply operation. For this reason, it is necessary to have a forecast of the residual load that is as accurate as possible. 
 
-![Alt Text](https://media.giphy.com/media/nRk3z3sg6Ano6Y7gX2/giphy.gif)
+![Alt Text](imgs/solar.gif)
 
 ## Problem Statement
 
