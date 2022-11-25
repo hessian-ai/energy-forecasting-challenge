@@ -42,3 +42,10 @@ Will be announced soon. But the price pool which will be distributed between the
 ## Evaluation Criteria
 
 Will be provided soon
+
+## Organizers
+
+[hessian.AI](https://hessian.ai/)
+[House of Energy](https://www.house-of-energy.org/)
+[AI Startup Rising](https://hessian.ai/entrepreneurship/)
+[Städtische Werke AG, Kassel](https://www.sw-kassel.de/privatkunden/startseite/)
