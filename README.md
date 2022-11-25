@@ -45,7 +45,7 @@ Will be provided soon
 
 ## Organizers
 
-[hessian.AI](https://hessian.ai/)
-[House of Energy](https://www.house-of-energy.org/)
-[AI Startup Rising](https://hessian.ai/entrepreneurship/)
+[hessian.AI](https://hessian.ai/) | 
+[House of Energy](https://www.house-of-energy.org/) | 
+[AI Startup Rising](https://hessian.ai/entrepreneurship/) | 
 [Städtische Werke AG, Kassel](https://www.sw-kassel.de/privatkunden/startseite/)
